@@ -19,6 +19,8 @@ class SplashActivity : AppCompatActivity() {
 //        window.addFlags(WindowManager.LayoutParams.FLAG_DRAWS_SYSTEM_BAR_BACKGROUNDS)
 //        window.statusBarColor= Color.WHITE
 //        window.decorView.systemUiVisibility = View.SYSTEM_UI_FLAG_VISIBLE
-        binding.startButton.setOnClickListener { startActivity(Intent(this, MainActivity::class.java)) }
+        binding.startButton.setOnClickListener {
+            startActivity(Intent(this, MainActivity::class.java))
+        }
     }
 }

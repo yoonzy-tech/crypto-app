@@ -22,7 +22,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_marginHorizontal="16dp"
-                android:layout_marginTop="48dp">
+                android:layout_marginTop="32dp">
 
                 <ImageView
                     android:id="@+id/imageView"
@@ -170,8 +170,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:clipToPadding="false"
-                android:paddingStart="16dp"
-                android:paddingEnd="16dp">
+                android:paddingStart="8dp"
+                android:paddingEnd="8dp">
 
             </androidx.recyclerview.widget.RecyclerView>
 
