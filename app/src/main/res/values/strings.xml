@@ -7,4 +7,14 @@
     <string name="experience_seamless_ntrading_and_secure_nassets_management">Experience Seamless \ntrading and secure \nassets management</string>
     <string name="get_started">Get Started</string>
     <string name="log_in">Log in</string>
+    <string name="crypto_activities">Crypto activities</string>
+    <string name="hello_mike">Hello Mike!</string>
+    <string name="itsmike_gmail_com">itsmike@gmail.com</string>
+    <string name="main_portfolio">Main Portfolio</string>
+    <string name="_3_452_95">$ 3,452.95</string>
+    <string name="_1023_54">+1023.54</string>
+    <string name="deposit">Deposite</string>
+    <string name="withdraw">Withdraw</string>
+    <string name="stock_futures">Stock Futures</string>
+    <string name="see_all">See all</string>
 </resources>
